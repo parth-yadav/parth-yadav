@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Kaushik Raj</h1>
+<h1 align="center">Hi I'm Parth Yadav</h1>
 
 - 🔭 I’m currently working on *React*
 - 👯 I’m looking to collaborate on React FullStack.
