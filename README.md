@@ -1,17 +1,14 @@
 <h1 align="center">Hi I'm Kaushik Raj</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shitcodebykaushik&label=Profile%20views&color=0e75b6&style=flat" alt="shitcodebykaushik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shitcodebykaushik&theme=juicyfresh" alt="shitcodebykaushik" /></a> </p>
 
 - 🔭 I’m currently working on *React*
 - 👯 I’m looking to collaborate on React FullStack.
 - 🌱 I’m currently learning **React**
-- 💬 Ask me about *C++, C, Reactt*
+- 💬 Ask me about *C++, C, React*
 - 📫 Reach me here *parthmy1@gmail.com*
 - ⚡ Fun fact *Discover a wheel and spin it.*
 
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kaushik-raj-86929226a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/shitcodebykaushik" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/parthmmyadav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/parthmmyadav/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:algorithmunloack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
