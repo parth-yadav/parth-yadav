@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on React FullStack.
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about *C++, C, React*
-- 📫 Reach me here *parthmy1@gmail.com*
+- 📫 Reach me here *parthmmyadav@gmail.com*
 - ⚡ Fun fact *Discover a wheel and spin it.*
 
 <div> <a href="https://www.linkedin.com/in/parthmmyadav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
